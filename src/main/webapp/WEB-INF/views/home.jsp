@@ -7,6 +7,6 @@
 
 <div id="contents">
     <div id="tagline" class="clearfix">
-        <h1>This is my home page</h1>
+        <h1>tiles home</h1>
     </div>
 </div>
